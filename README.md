@@ -1,6 +1,9 @@
 # Simple neural network 
 A simple neural network implementation XOR. This neural network uses relu function and sigmoid function.
 
+<img src="Neural-network.png?raw=true" width="600">
+
+
 Training network example, after 500 iterations:
 ```
 Epoch: 0, loss: 0.250606
