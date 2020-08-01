@@ -1,6 +1,8 @@
 # Simple neural network 
 A simple neural network implementation XOR. This neural network uses relu function and sigmoid function.
 
+
+# Neural network architecture. 
 <img src="Neural-network.png?raw=true" width="600">
 
 
