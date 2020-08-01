@@ -1,6 +1,6 @@
 // Neural network XOR problem.
 // Created by Dmitry Lebedev on 1/08/2020.
-// Copyright © 2020 Dmitry Lebedev. All rights reserved.
+// Copyright Â© 2020 Dmitry Lebedev. All rights reserved.
 #include <conio.h>
 #include "activation.h"
 #include "vector_functions.h"
@@ -10,7 +10,7 @@ int main() {
 
 	vector<vector<double>> inputs{ { 0.0, 0.0, 0.0 },
 	                               { 0.0, 1.0, 0.0 },
-								   { 1.0, 0.0, 1.0 }, 
+				       { 1.0, 0.0, 1.0 }, 
 	                               { 1.0, 0.0, 0.0 },
 	                               { 0.0, 1.0, 1.0 },
 	                               { 1.0, 1.0, 1.0 } };
