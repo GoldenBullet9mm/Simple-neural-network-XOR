@@ -5,8 +5,7 @@ A simple neural network implementation XOR. This neural network uses relu functi
 # Neural network architecture. 
 <img src="Neural-network.png?raw=true" width="600">
 
-
-Training network example, after 500 iterations:
+Example of network training, after 500 iterations:
 ```
 Epoch: 0, loss: 0.250606
 ------------------------------
